@@ -1,0 +1,84 @@
+
+
+` 0 `
+Time 2024-08-28 09:16:00 Spot = 51190
+streak: 1
+taking entry
+No Call Available in the range of [0.1, 0.30000000000000004] at Timestamp = 2024-08-28 09:16:00
+No Open Positions
+
+
+` 1 `
+Time 2024-08-28 09:17:00 Spot = 51196
+streak: 1
+taking entry
+No Call Available in the range of [0.1, 0.30000000000000004] at Timestamp = 2024-08-28 09:17:00
+No Open Positions
+
+
+` 2 `
+Time 2024-08-28 09:18:00 Spot = 51215
+streak: 1
+taking entry
+No Call Available in the range of [0.1, 0.30000000000000004] at Timestamp = 2024-08-28 09:18:00
+No Open Positions
+
+
+` 3 `
+Time 2024-08-28 09:19:00 Spot = 51196
+streak: 1
+taking entry
+No Call Available in the range of [0.1, 0.30000000000000004] at Timestamp = 2024-08-28 09:19:00
+No Open Positions
+
+
+` 4 `
+Time 2024-08-28 09:20:00 Spot = 51193
+streak: 1
+taking entry
+No Call Available in the range of [0.1, 0.30000000000000004] at Timestamp = 2024-08-28 09:20:00
+No Open Positions
+
+
+` 5 `
+Time 2024-08-28 09:21:00 Spot = 51216
+streak: 1
+taking entry
+No Call Available in the range of [0.1, 0.30000000000000004] at Timestamp = 2024-08-28 09:21:00
+No Open Positions
+
+
+` 6 `
+Time 2024-08-28 09:22:00 Spot = 51204
+streak: 1
+taking entry
+No Call Available in the range of [0.1, 0.30000000000000004] at Timestamp = 2024-08-28 09:22:00
+No Open Positions
+
+
+` 7 `
+Time 2024-08-28 09:23:00 Spot = 51185
+streak: 1
+taking entry
+No Call Available in the range of [0.1, 0.30000000000000004] at Timestamp = 2024-08-28 09:23:00
+No Open Positions
+
+
+` 8 `
+Time 2024-08-28 09:24:00 Spot = 51179
+streak: 1
+taking entry
+No Call Available in the range of [0.1, 0.30000000000000004] at Timestamp = 2024-08-28 09:24:00
+No Open Positions
+
+
+` 9 `
+Time 2024-08-28 09:25:00 Spot = 51166
+streak: 1
+taking entry
+No Call Available in the range of [0.1, 0.30000000000000004] at Timestamp = 2024-08-28 09:25:00
+No Open Positions
+
+
+` 10 `
+Time 2024-08-28 09:26:00 Spot = 51125

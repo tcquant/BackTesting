@@ -1,0 +1,180 @@
+
+Trade Key: 09:15:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 09:16:00 | Strike: 32400 | Expiry: 2020-01-30 00:00:00 | Delta: 0.523
+Put: BANKNIFTY | 2020-01-01 09:16:00 | Strike: 32400 | Expiry: 2020-01-30 00:00:00 | Delta: -0.477
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 09:30:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 09:30:00 | Strike: 32500 | Expiry: 2020-01-30 00:00:00 | Delta: 0.505
+Put: BANKNIFTY | 2020-01-01 09:30:00 | Strike: 32400 | Expiry: 2020-01-30 00:00:00 | Delta: -0.463
+Entry: Date: 2020-01-01 09:41:00 | Price: 456 | Total: 456 | Strike: 32500 | Quantity: 1 | Opt Type: CE | Trade Type: SELLING | Delta: 0.483
+Exit: Date: 2020-01-01 10:13:00 | Price: 405 | Total: 405 | Strike: 32500 | Quantity: 1 | Opt Type: CE | Trade Type: BUYING | Delta: 0.443
+Type: None | Entry: True | Exit: True | Null: False
+=======================================
+
+
+Trade Key: 09:45:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 09:45:00 | Strike: 32400 | Expiry: 2020-01-30 00:00:00 | Delta: 0.5
+Put: BANKNIFTY | 2020-01-01 09:45:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: -0.468
+Entry: Date: 2020-01-01 09:50:00 | Price: 494 | Total: 494 | Strike: 32300 | Quantity: 1 | Opt Type: PE | Trade Type: BUYING | Delta: -0.477
+Exit: Date: 2020-01-01 15:29:00 | Price: 475 | Total: 475 | Strike: 32300 | Quantity: 1 | Opt Type: PE | Trade Type: SELLING | Delta: -0.493
+Type: None | Entry: True | Exit: True | Null: False
+=======================================
+
+
+Trade Key: 10:00:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 10:00:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.527
+Put: BANKNIFTY | 2020-01-01 10:00:00 | Strike: 32400 | Expiry: 2020-01-30 00:00:00 | Delta: -0.504
+Entry: Date: 2020-01-01 10:10:00 | Price: 513 | Total: 513 | Strike: 32300 | Quantity: 1 | Opt Type: CE | Trade Type: SELLING | Delta: 0.512
+Exit: Date: 2020-01-01 15:29:00 | Price: 485 | Total: 485 | Strike: 32300 | Quantity: 1 | Opt Type: CE | Trade Type: BUYING | Delta: 0.508
+Type: None | Entry: True | Exit: True | Null: False
+=======================================
+
+
+Trade Key: 10:15:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 10:15:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.505
+Put: BANKNIFTY | 2020-01-01 10:15:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.463
+Entry: Date: 2020-01-01 10:29:00 | Price: 439 | Total: 439 | Strike: 32200 | Quantity: 1 | Opt Type: PE | Trade Type: SELLING | Delta: -0.448
+Exit: Date: 2020-01-01 15:29:00 | Price: 439 | Total: 439 | Strike: 32200 | Quantity: 1 | Opt Type: PE | Trade Type: BUYING | Delta: -0.46
+Type: None | Entry: True | Exit: True | Null: False
+=======================================
+
+
+Trade Key: 10:30:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 10:30:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.51
+Put: BANKNIFTY | 2020-01-01 10:30:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.459
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 10:45:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 10:45:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.513
+Put: BANKNIFTY | 2020-01-01 10:45:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: -0.487
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 11:00:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 11:01:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: 0.535
+Put: BANKNIFTY | 2020-01-01 11:01:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.465
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 11:15:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 11:17:00 | Strike: 32400 | Expiry: 2020-01-30 00:00:00 | Delta: 0.473
+Put: BANKNIFTY | 2020-01-01 11:17:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.464
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 11:30:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 11:30:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.501
+Put: BANKNIFTY | 2020-01-01 11:30:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.468
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 11:45:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 11:45:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.496
+Put: BANKNIFTY | 2020-01-01 11:45:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.472
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 12:00:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 12:00:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.501
+Put: BANKNIFTY | 2020-01-01 12:00:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.468
+Entry: Date: 2020-01-01 12:05:00 | Price: 511 | Total: 511 | Strike: 32300 | Quantity: 1 | Opt Type: CE | Trade Type: BUYING | Delta: 0.514
+Exit: Date: 2020-01-01 15:29:00 | Price: 485 | Total: 485 | Strike: 32300 | Quantity: 1 | Opt Type: CE | Trade Type: SELLING | Delta: 0.508
+Type: None | Entry: True | Exit: True | Null: False
+=======================================
+
+
+Trade Key: 12:15:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 12:15:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.515
+Put: BANKNIFTY | 2020-01-01 12:15:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: -0.485
+Entry: Date: 2020-01-01 12:28:00 | Price: 485 | Total: 485 | Strike: 32300 | Quantity: 1 | Opt Type: CE | Trade Type: SELLING | Delta: 0.497
+Exit: Date: 2020-01-01 15:29:00 | Price: 485 | Total: 485 | Strike: 32300 | Quantity: 1 | Opt Type: CE | Trade Type: BUYING | Delta: 0.508
+Type: None | Entry: True | Exit: True | Null: False
+=======================================
+
+
+Trade Key: 12:30:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 12:30:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: 0.521
+Put: BANKNIFTY | 2020-01-01 12:30:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.479
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 12:45:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 12:45:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.5
+Put: BANKNIFTY | 2020-01-01 12:45:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.468
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 13:00:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 13:00:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.502
+Put: BANKNIFTY | 2020-01-01 13:00:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.466
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 13:15:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 13:15:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: 0.529
+Put: BANKNIFTY | 2020-01-01 13:15:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.471
+Entry: Date: 2020-01-01 13:21:00 | Price: 562 | Total: 562 | Strike: 32200 | Quantity: 1 | Opt Type: CE | Trade Type: BUYING | Delta: 0.539
+Exit: Date: 2020-01-01 15:29:00 | Price: 549 | Total: 549 | Strike: 32200 | Quantity: 1 | Opt Type: CE | Trade Type: SELLING | Delta: 0.54
+Type: None | Entry: True | Exit: True | Null: False
+=======================================
+
+
+Trade Key: 13:30:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 13:31:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: 0.547
+Put: BANKNIFTY | 2020-01-01 13:31:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.453
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 13:45:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 13:45:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.506
+Put: BANKNIFTY | 2020-01-01 13:45:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.462
+Type: None | Entry: False | Exit: False | Null: False
+=======================================
+
+
+Trade Key: 14:00:00
+=======================================
+Call: BANKNIFTY | 2020-01-01 14:00:00 | Strike: 32300 | Expiry: 2020-01-30 00:00:00 | Delta: 0.513
+Put: BANKNIFTY | 2020-01-01 14:00:00 | Strike: 32200 | Expiry: 2020-01-30 00:00:00 | Delta: -0.454
+Entry: Date: 2020-01-01 14:15:00 | Price: 470 | Total: 470 | Strike: 32300 | Quantity: 1 | Opt Type: CE | Trade Type: SELLING | Delta: 0.493
+Exit: Date: 2020-01-01 15:29:00 | Price: 485 | Total: 485 | Strike: 32300 | Quantity: 1 | Opt Type: CE | Trade Type: BUYING | Delta: 0.508
+Type: None | Entry: True | Exit: True | Null: False
+=======================================
+
+Net Pnl = 6
+
+=======================================
+
